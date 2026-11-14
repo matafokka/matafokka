@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**matafokka/matafokka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a software developer. I like making computers do something fun and/or useful.
 
-Here are some ideas to get you started:
+I specialize in web and GIS development. I'll happily dabble in anything else given the time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm not attached to any particular tech stack because I believe that solid knowledge of the core programming principles lets you use any available tool efficiently.
+
+## ❤️ Like my stuff and have spare money to burn?
+
+Then please [support](https://hipolink.net/matafokka) my projects!
+
+*I'm actually gonna flip if somebody will donate, lol.*
+
+## 💬 Want to connect?
+
+Hit me up:
+
+- In the issues of any of my projects.
+- On [DeviantArt](http://deviantart.com/matafokka). Although I don't visit it very often.
