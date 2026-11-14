@@ -16,5 +16,5 @@ Then please [support](https://hipolink.net/matafokka) my projects!
 
 Hit me up:
 
-- In the issues of any of my projects.
-- On [DeviantArt](http://deviantart.com/matafokka). Although I don't visit it very often.
+- By creating an issue [here](https://github.com/matafokka/matafokka/issues/new). *Please mind that the issues are public.*
+- On [DeviantArt](http://deviantart.com/matafokka). *Although I don't visit it very often.*
